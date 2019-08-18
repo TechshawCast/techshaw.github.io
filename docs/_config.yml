@@ -3,15 +3,15 @@ title: "Techshaw Podcast"
 description: > 
   Burmese speaking podcast about software development
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Techshaw Cast
+email: techshawcast@gmail.com
+twitter_username: 
+github_username: 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+url: "https://techshawcast.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: 
 disqus_id:
 
 # Build settings
