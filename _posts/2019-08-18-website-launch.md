@@ -7,7 +7,9 @@ tags: launch
 comments: true
 ---
 
-Techshaw podcast is burmese podcast about tech interviews, trends and news. 
+Techshaw podcast is burmese podcast about tech interviews, trends and news.
+
+Take a ride through a burmese tech scene by Burmese, for Burmese.
 
 ---
 
