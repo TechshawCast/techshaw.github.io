@@ -17,7 +17,7 @@ Take a ride through a burmese tech scene by Burmese, for Burmese.
 
 Techshaw podcast is hosted by 
 
-[Aung Kyaw Paing](https://twitter.com), [Min Phone Nyut Win](https://twi qtter.com) & [Lin Min Phyo](https://twitter.com)
+[Aung Kyaw Paing](https://twitter.com/vincentpaing), [Min Phone Nyut Win](https://twitter.com/MinPhone22) & [Lin Min Phyo](https://twitter.com/Linminphyoe1)
 
 
 If you have any suggestion about our podcast, please reach out to us [techshawcast@gmail.com](mailto:techshawcast@gmail.com).
