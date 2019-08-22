@@ -1,8 +1,7 @@
 <header class="c-page__header">
-  <h1><code>{{ site.title}}</code></h1>
-  {% if page.title == 'Home' %}
-  <h1>{{ site.description }}</h1>
-  {% endif %}
+  <img src="{{site.baseUrl}}/assets/logo.png" width="80px" height="80px"/>
+  <h1><code>{{ site.title }}</code></h1>
+  <!-- <h1>{{ site.description }}</h1> -->
   <p>
     <a href="{{ "/" | prepend: site.baseurl }}">Home</a>
     <span class="u-separate"></span>

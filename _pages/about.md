@@ -6,9 +6,19 @@ permalink: /about/
 
 ## Why Techshaw
 
-We named it by combining two words: **Technology** and **Trishaw**. In Yangon, trishaws can be seen almost everywhere. Take a ride through a burmese tech scene by Burmese, for Burmese
+We named it by combining two words: **Technology** and **Trishaw**. In Yangon, trishaws can be seen almost everywhere.
+> Take a ride through a burmese tech scene by Burmese, for Burmese
 
 <br/>
+
+### Listen on
+
+- [Spotify](https://open.spotify.com/show/0BNTOYC1ZftksTQjzUdrfT)
+
+- [Anchor.fm](https://anchor.fm/techshaw)
+
+<br/>
+
 
 ### Hosts
 
