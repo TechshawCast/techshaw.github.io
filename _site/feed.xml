@@ -6,15 +6,15 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Aug 2019 22:35:39 +0630</pubDate>
-    <lastBuildDate>Thu, 22 Aug 2019 22:35:39 +0630</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2019 20:29:54 +0630</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 20:29:54 +0630</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Episode 01 - The beginning of our technology career</title>
         <description>&lt;p&gt;Welcome to the first episode of TechShaw Cast, a podcast about Burmese technology scene. This is our first ever episode and here we talked a bit about how we first came into the technology scene, and our struggles during those times. Get a look into the podcast host’s career life as we leave some tips for those who want to start.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Episode-01---The-beginning-of-our-technology-career-e50m5o&quot; height=&quot;102px&quot; width=&quot;700px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Episode-01---The-beginning-of-our-technology-career-e50m5o&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
