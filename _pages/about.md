@@ -15,9 +15,11 @@ We named it by combining two words: **Technology** and **Trishaw**. In Yangon, t
 
 - [Spotify](https://open.spotify.com/show/0BNTOYC1ZftksTQjzUdrfT)
 
+- [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kNjk4ZmNjL3BvZGNhc3QvcnNz)
+
 - [Anchor.fm](https://anchor.fm/techshaw)
 
-- [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kNjk4ZmNjL3BvZGNhc3QvcnNz)
+- [Radio Republic](https://radiopublic.com/techshaw-G275md)
 
 <br/>
 
