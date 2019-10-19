@@ -6,9 +6,55 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Oct 2019 21:37:33 +0630</pubDate>
-    <lastBuildDate>Fri, 04 Oct 2019 21:37:33 +0630</lastBuildDate>
+    <pubDate>Sat, 19 Oct 2019 15:04:48 +0630</pubDate>
+    <lastBuildDate>Sat, 19 Oct 2019 15:04:48 +0630</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Episode 05 - Tech Byte : Beyond REST</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Developer တော်တော်များများ REST API တွေနဲ့ ရင်းနှီးကြမယ်လို့ ထင်ပါတယ်။ REST API တွေ ရေးရင်းနဲ့ project က ကြီးလာလေလေ ထိန်းရသိမ်းရ ခက်လေလေ ဖြစ်တာမျိုး ကြုံဖူးကြတယ်၊​ ဟုတ်?
+ဒီတစ်ပါတ် Techshaw Cast ရဲ့ တစ်ထိုင်စာ Tech Byte အစီအစဉ်လေး မှာတော့ REST API တွေနဲ့ ပတ်သက်ပြီး ကျွန်တော်‌တို့ ကြုံတွေ့ခဲ့ရတဲ့ အခက်အခဲ တချို့ရယ် ၊ ဒီအခက်အခဲတွေကို ဖြေရှင်းဖို့ သုံးဖြစ်ခဲ့တဲ့ နည်းပညာလေးတစ်ခု အကြောင်းကို ပြောပြမယ်။
+အောက်က link တွေကနေ နားထောင်ပြီးရင် ပရိသတ်တွေရဲ့ အမြင်လေးတွေလည်း မျှဝေပေးကြပါဦးနော်။&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Tech-Byte--Beyond-REST-e7ppuj&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://graphql.org&quot;&gt;GraphQL Official Site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/apollographql/apollo-android&quot;&gt;Apollo-Android&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/apollographql/apollo-ios&quot;&gt;Apollo-iOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/APIs-guru/graphql-apis&quot;&gt;Open GraphQL APIs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/open-graphql/launching-spacex-graphql-api-b3d7029086e0&quot;&gt;SpaceX GraphQL APIs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://anilist.co/graphiql&quot;&gt;AniList API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.graphqlconf.org&quot;&gt;GraphQL Conf&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 18 Oct 2019 00:00:00 +0630</pubDate>
+        <link>http://localhost:4000/2019/10/episode-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/episode-5.html</guid>
+        
+        <category>tech</category>
+        
+        <category>api</category>
+        
+        <category>rest</category>
+        
+        
+      </item>
     
       <item>
         <title>Episode 04 - Open Source</title>
