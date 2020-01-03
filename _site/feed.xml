@@ -6,9 +6,50 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Dec 2019 20:38:42 +0630</pubDate>
-    <lastBuildDate>Fri, 13 Dec 2019 20:38:42 +0630</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2020 20:57:33 +0630</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2020 20:57:33 +0630</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>More Than Dev : Aligning Sales and Product Teams on Your Roadmap</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ကျွန်တော်တို့ နည်းပညာထုတ်ကုန်တွေဖန်တီးပြီးရင်  စားသုံးသူတွေစိတ်ဝင်စားလာအောင် ရောင်းဖို့ကလိုသေးတယ်လေ။ ဒီတော့ “sales” လို့ခေါ်တဲ့ ကိုယ့်နည်းပညာကို စျေးကွက်ထဲရောက်အောင် ဖောက်ပေးတဲ့သူတွေလိုလာပြန်ရော။ ဒါဆိုရင် ဒီ Sales Team နဲ့ Development Team နဲ့  ပန်းတိုင် တစ်ထပ်တည်းကျအောင် ဘယ်လိုလုပ်ကြမလဲဆိုတဲ့ မေးခွန်းကရှိလာပြီလေ။&lt;/p&gt;
+
+&lt;p&gt;ဒီမေးခွန်းတွေကို ဖြေပေးဖို့ Techshaw Cast မှာ ဒီတစ်ခေါက်ဝင်ရောက်အားဖြည့်ပေးထားတာကတော့ ကိုမျိုးထက်အောင်ပဲဖြစ်ပါတယ်။ ကိုမျိုးထက်အောင်က Digital Solution တွေဖန်တီးပေးနေတဲ့ nexlabs ရဲ့ co-founder ဖြစ်သလို၊ အခုလက်ရှိမှာတော့  BetterHR ဆိုတဲ့ HR Software လေးမှာ Head Of Sales နဲ့လုပ်ကိုင်နေပါတယ်။ ဒါ့အပြင် Forbes ရဲ့ စောင့်ကြည့်ရမဲ့ 30 Under 30 မှာလည်း အရွေးခံရဖူသေးတယ်နော်။&lt;/p&gt;
+
+&lt;p&gt;ဒါဆိုရင် Sales Team နဲ့ Development Team ကို ဘယ်လို တစ်ပြေးညီဖြစ်အောင် ကိုမျိုးထက်အောင်အနေနဲ့ ဘယ်လိုလုပ်ဆောင်လဲဆိုတာ ကို ဒီတစ်ခေါက် More Than Dev အစီအစဉ်လေးမှာနားထောင်ကြည့်ဦးနော်။&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Show notes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;44:40&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.hubspot.com&quot;&gt;HubSpot Drive Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pipedrive.com/en/blog&quot;&gt;PipeDrive Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/More-Than-Dev--Aligning-Sales-and-Product-Teams-on-Your-Roadmap-e9rah2&quot; hheight=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 +0630</pubDate>
+        <link>http://localhost:4000/2019/12/episode-11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/episode-11.html</guid>
+        
+        <category>tech,</category>
+        
+        <category>sales,</category>
+        
+        <category>roadmap</category>
+        
+        
+      </item>
     
       <item>
         <title>Episode 10 - Tech Conf Tips [Part 2]</title>
@@ -390,29 +431,6 @@
         <pubDate>Thu, 05 Sep 2019 00:00:00 +0630</pubDate>
         <link>http://localhost:4000/2019/09/episode-2.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/09/episode-2.html</guid>
-        
-        <category>tech,</category>
-        
-        <category>interview</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 01 - The beginning of our technology career</title>
-        <description>&lt;p&gt;Welcome to the first episode of TechShaw Cast, a podcast about Burmese technology scene. This is our first ever episode and here we talked a bit about how we first came into the technology scene, and our struggles during those times. Get a look into the podcast host’s career life as we leave some tips for those who want to start.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Episode-01---The-beginning-of-our-technology-career-e50m5o&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Thu, 22 Aug 2019 00:00:00 +0630</pubDate>
-        <link>http://localhost:4000/2019/08/episode-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/episode-1.html</guid>
         
         <category>tech,</category>
         
