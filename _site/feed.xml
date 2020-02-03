@@ -6,12 +6,49 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jan 2020 20:52:06 +0630</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2020 20:52:06 +0630</lastBuildDate>
+    <pubDate>Mon, 03 Feb 2020 23:15:47 +0630</pubDate>
+    <lastBuildDate>Mon, 03 Feb 2020 23:15:47 +0630</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Android in 2020</title>
+        <title>#13 - Tech Byte : Good reads #1</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ဒီတစ်ခေါက်မှာတော့ Techshaw Cast ရဲ့ တစ်ထိုင်စာ TechByte အစီအစဉ်လေးကနေ ကျွန်တော်နှစ်ယောက် သဘောကျတဲ့ စာအုပ်တစ်အုပ်စီအကြောင်းကို ဆွေးနွေးထားပါတယ်။ တကယ်လို့ ၂၀၂၀ ပန်းတိုင်က စာအုပ်ဖတ်ဖို့ဆိုရင်တော့ ဒီအပိုင်းကို လုံးဝ လက်မလွတ်သင့်ဘူးနော်။&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Books we mentioned&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/SQL-Relational-Theory-Write-Accurate/dp/1491941170&quot;&gt;SQL and Relational Theory: How to Write Accurate SQL Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Make time&lt;/em&gt; : &lt;a href=&quot;https://maketime.blog/&quot;&gt;Blog&lt;/a&gt; / &lt;a href=&quot;https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422&quot;&gt;Book&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299&quot;&gt;Atomic Habits&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Tech-Byte--Good-reads-1-eace53&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 24 Jan 2020 00:00:00 +0630</pubDate>
+        <link>http://localhost:4000/2020/01/episode-13.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/episode-13.html</guid>
+        
+        <category>techbyte,</category>
+        
+        <category>books</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#12 - Android in 2020</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;2019 ကုန်လို့ 2020 လည်းရောက်ပြီဆို‌တော့ နှစ်သစ် ရည်မှန်းချက်မှာ လေ့လာဖို့ နည်းပညာ အသစ်တွေ ၊ ဘဝရဲ့ နောက်ထပ်တက်လမ်းတွေ အတွက် စီစဉ်ထားတာတွေ ကိုယ်စီရှိကြမှာပါ ။ ဒါဆိုရင် ကိုယ့်ရဲ့ ရည်မှန်းချက်မှာ Android Development လုပ်မယ်ဆိုတဲ့ သူတွေအတွက် ကျွန်တော်တို့ 2020 မှာ လေ့လာသင့်တဲ့ Android နဲ့ပတ်သက်တဲ့ နည်းပညာအသစ်တွေအကြာင်း ဒီတစ်ခေါက် အပိုင်းလေးမှာ ပြောပြပေးမယ်နော်။
@@ -196,7 +233,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>More Than Dev : Aligning Sales and Product Teams on Your Roadmap</title>
+        <title>#11 - More Than Dev : Aligning Sales and Product Teams on Your Roadmap</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;ကျွန်တော်တို့ နည်းပညာထုတ်ကုန်တွေဖန်တီးပြီးရင်  စားသုံးသူတွေစိတ်ဝင်စားလာအောင် ရောင်းဖို့ကလိုသေးတယ်လေ။ ဒီတော့ “sales” လို့ခေါ်တဲ့ ကိုယ့်နည်းပညာကို စျေးကွက်ထဲရောက်အောင် ဖောက်ပေးတဲ့သူတွေလိုလာပြန်ရော။ ဒါဆိုရင် ဒီ Sales Team နဲ့ Development Team နဲ့  ပန်းတိုင် တစ်ထပ်တည်းကျအောင် ဘယ်လိုလုပ်ကြမလဲဆိုတဲ့ မေးခွန်းကရှိလာပြီလေ။&lt;/p&gt;
@@ -237,7 +274,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 10 - Tech Conf Tips [Part 2]</title>
+        <title>#10 - Tech Conf Tips [Part 2]</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Show notes&lt;/strong&gt;&lt;/p&gt;
@@ -288,7 +325,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 09 - Tech Conf Tips [Part 1]</title>
+        <title>#09 - Tech Conf Tips [Part 1]</title>
         <description>&lt;p&gt;သိပ်မကြာခင်မှာပဲ နည်းပညာအကြောင်းဆွေးနွေးပဲတွေ လာတော့မယ်။
 ဒီသောကြာမှာတော့ Bonus Episode အနေနဲ့ လာမဲ့ပွဲတွေအကြောင်းကို ဆွေးနွေးထားတယ်နော်။ ဒီထဲမှာ မကြာခင်လာတော့မဲ့ အစီအစဉ်တစ်ခုကိုလည်း ပြောထားတယ်နော်
 ။ ဒါကတော့ နားထောင်ကြည့်မှသိမယ်။ ကဲကဲပြောနေကြာပါတယ်။ Bonus Episode လေးကို အောက်ကလင့်ခ်တွေမှာ နားထောင်လိုက်တော့နော်။&lt;/p&gt;
@@ -323,7 +360,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 08 - Tech Byte : Theories, Important?</title>
+        <title>#08 - Tech Byte : Theories, Important?</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Software Developer တွေ ကြားမှာ အပြောများကြတာလေးတစ်ခုရှိတယ်။
@@ -370,7 +407,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 07 - Team Management as a Senior Developer</title>
+        <title>#07 - Team Management as a Senior Developer</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;နည်းပညာထုတ်ကုန်တစ်ခုကို ဖန်တီးတဲ့အခါမှာ Developer တစ်ယောက်တည်းနဲ့လည်း မပြီးပါဘူး။ Project Manager တွေ၊ Designer တွေ၊ Sales, Quality Assurance အစရှိသဖြင့် အများကြီးနဲ့တွဲလုပ်ရတာကို။​​ ဒီလိုလူအများနဲ့လုပ်တဲ့အခါမှာ တစ်ခါတစ်ရံ အခက်အခဲလေးတွေ ကြုံတွေ့ဖူးမှာပါ။ ဒီတစ်ပတ် Techshaw Podcast မှာတော့ နည်းပညာထုတ်ကုန်အဖွဲ့ တွေမှာ  ကြုံရလေ့ရှိတဲ့ အခက်အခဲတွေကို ဆွေးနွေးထားပါတယ်။&lt;/p&gt;
@@ -397,7 +434,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 06 - Ethical Design</title>
+        <title>#06 - Ethical Design</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;ထုတ်ကုန်တစ်ခု ဖန်တီးမယ်ဆိုရင် လိုက်နာရမဲ့ ကျင့်ဝတ်တွေရှိတာကို သိပြီးကြမှာပါ။ ကျင့်ဝတ်ညီတဲ့ ဒီဇိုင်းဆိုတာဘာလဲ၊ ဘာဖြစ်လို ဂရုစိုက်သင့်လဲ၊​ ဂရုမစိုက်ရင်ကော ဘာဆိုးကျိုးတွေရှိလဲ ဆိုတဲ့ အကြောင်းအရာတွေကို  ဒီတစ်ခေါက်မှာတော့  မငယ်ဦးမွန်က ပါဝင်ဆွေးနွေးပေးထားပါတယ်။ မငယ်ဦးမွန်ကတော့ Experience Design နဲ့ Interaction Design ကို ကျွမ်းကျင်ပိုင်နိုင်တဲ့သူတစ်ယောက်ဖြစ်ပါတယ်။ အခုလက်ရှိမှာတော့ nexlabs မှာ Design Strategist အနေနဲ့ ဒီဇိုင်းမစချင် အသုံးပြုသူလေ့လာတဲ့အပိုင်းတွေ၊​ လေ့လာပြီး ရလာတဲ့ ရလဒ်တွေကို အသုံးချပြီး သုံးရလွယ်ကူ အဆင်ပြေတဲ့  Mobile App​ ဒီဇိုင်း, Website ဒီဇိုင်းအစရှိတာတွေ ဖန်တီးပေးနေပါတယ်။&lt;/p&gt;
@@ -424,7 +461,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 05 - Tech Byte : Beyond REST</title>
+        <title>#05 - Tech Byte : Beyond REST</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Developer တော်တော်များများ REST API တွေနဲ့ ရင်းနှီးကြမယ်လို့ ထင်ပါတယ်။ REST API တွေ ရေးရင်းနဲ့ project က ကြီးလာလေလေ ထိန်းရသိမ်းရ ခက်လေလေ ဖြစ်တာမျိုး ကြုံဖူးကြတယ်၊​ ဟုတ်?
@@ -470,7 +507,7 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Episode 04 - Open Source</title>
+        <title>#04 - Open Source</title>
         <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Open source ဆိုတာတွေလုပ်ဖူးကြလား? လုပ်တော့မလုပ်ဖူးသေးဘူး လုပ်ကြည့်ချင်တယ်ဆိုတဲ့သူတွေအတွက် ဒီတစ်ခေါက်မှာ Open Source ဆိုတာ ဘာလဲ၊ ဘာလို့လုပ်သင့်လဲ၊
@@ -544,49 +581,6 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
         <category>tech,</category>
         
         <category>open-source</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 03 - Tech Byte : Myanmar Unicode</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tech Byte လို့နာမည်ပေးထားတဲ့ အစီအစဉ်လေးနဲ့ မိတ်ဆက်ပေးမယ်နော်။
-နာမည်အတိုင်း 1 byte (1 bite) တစ်ကိုက်စာ၊ တစ်ထိုင်စာ နားထောင်လို့ရအောင် အကြောင်းအရာတစ်ခုတည်းကိုပဲ ၁၀ - ၁၅ မိနစ်အတွင်း ဆေွးနွေးပေးတဲ့ အစီအစဉ်လေးတစ်ခုပါ။ အချိန်အကြာကြီး မပေးနိုင်တဲ့သူတွေအတွက် အဆင်ပြေမယ်လို့မျှော်လင့်ပါတယ်နော်။
-ဒါနဲ့ ၂၀၁၉ ခုနှစ် အောက်တိုဘာလ ၁ ရက်နေ့က စပြီး မြန်မာတစ်နိုင်ငံလုံးမှာ ယူနီကုဒ် စံစနစ်ကို လိုက်နာတဲ့ မြန်မာစာစနစ်ကို ပြောင်းလဲ အသုံးပြုကြရတော့မယ်လို့သိရတယ်။ ကျွန်တော်တို့ Techshaw Podcast အဖွဲသားများကိုယ်တိုင်ကလည်း မြန်မာယူနီကုဒ်ကို အသုံးပြုနေတဲ့သူတွေဖြစ်တယ်။ ဒီတော့ ပထမဆုံး Tech Byte အနေနဲ့ ကျွန်တော်တို့ စပြီးပြောင်းလဲ အသုံးပြုတုန်းက ကြုံတွေ့ခဲ့ရသမျှ အခက်အခဲတွေ၊ ပြီးတော့ ကိုယ်တွေ့ အခက်အခဲက ရလာတဲ့ အကြံပေးချက်တွေကို နားဆင်ကြည့်ကြပါဦး။&lt;/p&gt;
-
-&lt;p&gt;မြန်မာ ယူနီကုဒ်နဲ့ ပတ်သက်လို့ လေ့လာချင်တာဖြစ်ဖြစ် ပြောင်းသုံးဖို့ အခက်အခဲရှိတာဖြစ်ဖြစ် အောက်ပါ Links များမှာ အကူအညီ ရယူနိုင်ပါတယ်။&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Tech-Byte--Myanmar-Unicode-e5esrk&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/unicodetodaymm/&quot;&gt;https://www.facebook.com/unicodetodaymm/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.mmunicode.org&quot;&gt;https://www.mmunicode.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.mmunicode.org/wiki/&quot;&gt;https://www.mmunicode.org/wiki/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.mmunicode.org/wiki/&quot;&gt;http://unicode.today&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Fri, 20 Sep 2019 00:00:00 +0630</pubDate>
-        <link>http://localhost:4000/2019/09/episode-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/episode-3.html</guid>
-        
-        <category>tech,</category>
-        
-        <category>tech-byte,</category>
-        
-        <category>myanmar-unicode</category>
         
         
       </item>
