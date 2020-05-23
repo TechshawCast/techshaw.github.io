@@ -6,12 +6,81 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Apr 2020 23:20:20 +0630</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2020 23:20:20 +0630</lastBuildDate>
+    <pubDate>Sat, 23 May 2020 18:56:12 +0630</pubDate>
+    <lastBuildDate>Sat, 23 May 2020 18:56:12 +0630</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>#19 - Remote Working with Ko Khun Zohn</title>
+        <title>#21 - TechByte : Defensive Programming</title>
+        <description>&lt;p&gt;ဒီတစ်ခေါက်မှာတော့ Programming practice တစ်ခုဖြစ်တဲ့ Defensive Programming အကြောင်းကို တစ်ထိုင်စာ Tech Byte အတိုလေး လုပ်ထားတယ်နော်။&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fragmentedpodcast.com/episodes/88/&quot;&gt;Offensive programming with Piwai from Square&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Tech-Byte--Defensive-Programming-ee2u6o&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 15 May 2020 00:00:00 +0630</pubDate>
+        <link>http://localhost:4000/2020/05/episode-21.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/episode-21.html</guid>
+        
+        <category>tech,</category>
+        
+        <category>programming</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#20 - Approaching Flutter</title>
+        <description>&lt;p&gt;Google ကနေဦးဆောင်ပြီး ရေးထားတဲ့ Flutter က အခုနောက်ပိုင်း Mobile Development မှာခေတ်စားလာပါတယ်။ ခေတ်စားလာတဲ့နဲ့အမျှ Flutter က Native development နဲ့ဘယ်လိုတွေကွာတယ်၊ သူက ဘယ်လိုအလုပ်လုပ်တာလဲ အစရှိသဖြင့် မေးခွန်းတွေ၊ သိချင်တာလေးတွေများလာပါတယ်။ ဒီတော့ Flutter အကြောင်းကို Myanmar Links မှာ Web Development, Mobile Development တွေကို ဦးဆောင်လုပ်ကိုင်နေတဲ့အပြင် သင်တန်းတွေပါ ပိုချပေးနေတဲ့ ဆရာစိုးသီဟနောင်နဲ့အတူ ဆွေးနွေးပေးသွားမှာပါ။ ဆရာစိုးသီဟနောင်က Flutter နဲ့ ဆော့ဖ်ဝဲလ်တွေ ဖန်းတီးနေသလို သင်တန်းပါပိုချနေတဲ့ အတွက် သူ့ရဲ့ Flutter ကို လေ့လာ ချည်းကပ်ပုံတွေက စိတ်ဝင်စားစရာကောင်းပြီး ပရိသတ်အတွက် အကျိုးရှိမှာပါ။&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;03:20 - &lt;a href=&quot;https://pub.dev/packages/retrofit&quot;&gt;Retrofit Flutter&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;18:10 - &lt;a href=&quot;https://github.com/skylot/jadx&quot;&gt;JADX&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;21:40 - &lt;a href=&quot;https://bloclibrary.dev/&quot;&gt;Bloc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;23:20 - &lt;a href=&quot;https://play.google.com/store/apps/details?id=net.myanmarlinks.savethelibrary&quot;&gt;Save the Library App&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;25:05 - &lt;a href=&quot;https://moor.simonbinder.eu&quot;&gt;Moor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;26:00 -&lt;a href=&quot; https://play.google.com/store/apps/details?id=com.teamflow.meepyatike&amp;amp;hl=en&quot;&gt; Mee Pya Tike&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;36:30 -&lt;a href=&quot;https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart&quot;&gt; Free Flutter Course from Angela Yu x Google Flutter Team&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;37:05 -&lt;a href=&quot; https://flutter.dev/docs/codelabs&quot;&gt; Flutter Codelabs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;38:10 -&lt;a href=&quot;https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c&quot;&gt; Reactive at Airbnb&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Approaching-Flutter-with-Soe-Thiha-Naung-edeti0&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 01 May 2020 00:00:00 +0630</pubDate>
+        <link>http://localhost:4000/2020/05/episode-20.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/episode-20.html</guid>
+        
+        <category>tech,</category>
+        
+        <category>flutter,</category>
+        
+        <category>mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#19 - Remote Working</title>
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://basecamp.com/books/remote&quot;&gt;06:35 - Remote : Office Not Required&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://zoom.us&quot;&gt;22:00 - Zoom&lt;/a&gt;&lt;/p&gt;
@@ -506,98 +575,6 @@ Invitation links can now be send on Firebase App Distribution.&lt;/p&gt;
         <category>tech,</category>
         
         <category>android</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>#11 - More Than Dev : Aligning Sales and Product Teams on Your Roadmap</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;ကျွန်တော်တို့ နည်းပညာထုတ်ကုန်တွေဖန်တီးပြီးရင်  စားသုံးသူတွေစိတ်ဝင်စားလာအောင် ရောင်းဖို့ကလိုသေးတယ်လေ။ ဒီတော့ “sales” လို့ခေါ်တဲ့ ကိုယ့်နည်းပညာကို စျေးကွက်ထဲရောက်အောင် ဖောက်ပေးတဲ့သူတွေလိုလာပြန်ရော။ ဒါဆိုရင် ဒီ Sales Team နဲ့ Development Team နဲ့  ပန်းတိုင် တစ်ထပ်တည်းကျအောင် ဘယ်လိုလုပ်ကြမလဲဆိုတဲ့ မေးခွန်းကရှိလာပြီလေ။&lt;/p&gt;
-
-&lt;p&gt;ဒီမေးခွန်းတွေကို ဖြေပေးဖို့ Techshaw Cast မှာ ဒီတစ်ခေါက်ဝင်ရောက်အားဖြည့်ပေးထားတာကတော့ ကိုမျိုးထက်အောင်ပဲဖြစ်ပါတယ်။ ကိုမျိုးထက်အောင်က Digital Solution တွေဖန်တီးပေးနေတဲ့ nexlabs ရဲ့ co-founder ဖြစ်သလို၊ အခုလက်ရှိမှာတော့  BetterHR ဆိုတဲ့ HR Software လေးမှာ Head Of Sales နဲ့လုပ်ကိုင်နေပါတယ်။ ဒါ့အပြင် Forbes ရဲ့ စောင့်ကြည့်ရမဲ့ 30 Under 30 မှာလည်း အရွေးခံရဖူသေးတယ်နော်။&lt;/p&gt;
-
-&lt;p&gt;ဒါဆိုရင် Sales Team နဲ့ Development Team ကို ဘယ်လို တစ်ပြေးညီဖြစ်အောင် ကိုမျိုးထက်အောင်အနေနဲ့ ဘယ်လိုလုပ်ဆောင်လဲဆိုတာ ကို ဒီတစ်ခေါက် More Than Dev အစီအစဉ်လေးမှာနားထောင်ကြည့်ဦးနော်။&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Show notes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;44:40&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.hubspot.com&quot;&gt;HubSpot Drive Blog&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.pipedrive.com/en/blog&quot;&gt;PipeDrive Blog&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/More-Than-Dev--Aligning-Sales-and-Product-Teams-on-Your-Roadmap-e9rah2&quot; hheight=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Fri, 27 Dec 2019 00:00:00 +0630</pubDate>
-        <link>http://localhost:4000/2019/12/episode-11.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/episode-11.html</guid>
-        
-        <category>tech,</category>
-        
-        <category>sales,</category>
-        
-        <category>roadmap</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>#10 - Tech Conf Tips [Part 2]</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Show notes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;07:35&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://romannurik.github.io/SlidesCodeHighlighter/&quot;&gt;Slide Code Highlighter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;8:47&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=DtP9jjQJjt8&quot;&gt;Chat Hasse’s talk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://fragmentedpodcast.com/episodes/179/&quot;&gt;FragmentedCast Podcast about tech talk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jlPaby7suOc&quot;&gt;Every closure talk ever&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;32:15&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.droidcon.com/media-detail?video=352902374&quot;&gt;Minimalism driven development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4SX5m2dOZOQ&quot;&gt;Ethical design&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=knUZ6j7X63I&quot;&gt;Kotlin talk inside IntelliJ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://anchor.fm/techshaw/embed/episodes/Tech-Conf-Tips--Part-2-e9ggll&quot; height=&quot;102px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Contact us and send feedback at &lt;a href=&quot;mailto:techshawcast@gmail.com&quot;&gt;techshawcast@gmail.com&lt;/a&gt;. Looking forward to sharing more stuffs with all of you.&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Fri, 06 Dec 2019 00:00:00 +0630</pubDate>
-        <link>http://localhost:4000/2019/12/episode-10.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/episode-10.html</guid>
-        
-        <category>tech,</category>
-        
-        <category>talk</category>
         
         
       </item>
