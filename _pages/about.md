@@ -40,13 +40,8 @@ We named it by combining two words: **Technology** and **Trishaw**. In Yangon, t
 
 <br/>
 
-### Venue Sponsors
-[Better Technology](https://www.better.hr)
-
-<br/>
-
 ### Website
-Website is made using [Jekyll](https://jekyll.rb) and [Paper Jekyll Theme](https://github.com/mkchoi212/paper-jekyll-theme.git)
+Website is made with [Jekyll](https://jekyll.rb) and [Paper Jekyll Theme](https://github.com/mkchoi212/paper-jekyll-theme.git)
 
 <br/>
 
